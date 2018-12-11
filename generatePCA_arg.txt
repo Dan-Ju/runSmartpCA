@@ -1,0 +1,9 @@
+DIR=
+VCF_FILENAME=
+PANEL_FILENAME=
+POPLIST_FILENAME=
+
+# DIR=base directory
+# VCF_FILENAME=VCF file to run PCA on
+# PANEL_FILENAME=text file of samples names (col 1) and populations (col 2)
+# POPLIST_FILENAME=text file listing populations to generate PCs with
